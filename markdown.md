@@ -1,4 +1,4 @@
-# Markdown Cheatshee
+# Markdown Cheatsheet
 마크다운은 사실 매일 사용해서 다 알지만, 표만들 때 귀찮아서 복붙하려고 만듬
 
 ### References
