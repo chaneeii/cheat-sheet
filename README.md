@@ -2,8 +2,7 @@
 
 내가 쓰고 보려고 저장해두는 코드스니펫 / cheatsheet모음
 
-![image](https://user-images.githubusercontent.com/63157395/210167950-e34bb503-29a1-4caa-ae93-8c0ea433f057.png)
-
+<img width="300" src="https://user-images.githubusercontent.com/63157395/210168028-180a8fec-3353-4d72-a773-b02e303b8cf1.png">
 
 ### iOS 
 - Swift
