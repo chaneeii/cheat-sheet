@@ -5,7 +5,7 @@
 <img width="300" src="https://user-images.githubusercontent.com/63157395/210168028-180a8fec-3353-4d72-a773-b02e303b8cf1.png">
 
 ### iOS 
-- Swift
+- [Swift](https://github.com/chaneeii/cheatsheet/blob/main/swift.md)
 - Xcode
 
 ### ETC
